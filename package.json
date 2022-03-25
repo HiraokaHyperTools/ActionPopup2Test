@@ -1,8 +1,8 @@
 {
-  "name": "action-popup-test",
+  "name": "action-popup2-test",
   "version": "0.1.0",
   "main": "index.js",
-  "repository": "https://github.com/HiraokaHyperTools/ActionPopupTest.git",
+  "repository": "https://github.com/HiraokaHyperTools/ActionPopup2Test.git",
   "author": "kenjiuno",
   "license": "MIT",
   "private": true,

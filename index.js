@@ -19,8 +19,8 @@ function zipDirectory(sourceDir, outPath) {
     });
 }
 
-zipDirectory("action_popup", "action_popup.xpi")
+zipDirectory("action_popup2", "action_popup2.xpi")
     .then(
-        () => console.info("action_popup.xpi done."),
+        () => console.info("action_popup2.xpi done."),
         ex => console.error("FAILED! " + ex)
     );

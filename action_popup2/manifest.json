@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "action_popup",
-  "description": "popup tests",
+  "name": "action_popup2",
+  "description": "popup2 tests",
   "version": "0.1",
   "applications": {
     "gecko": {
-      "id": "action_popup@digitaldolphins.jp",
+      "id": "action_popup2@digitaldolphins.jp",
       "strict_min_version": "68.6.0"
     }
   },
@@ -18,11 +18,11 @@
     "16": "icons/16.png"
   },
   "author": "kenjiuno",
-  "homepage_url": "https://github.com/HiraokaHyperTools/ActionPopupTest",
+  "homepage_url": "https://github.com/HiraokaHyperTools/ActionPopup2Test",
   "compose_action": {
     "default_area": "formattoolbar",
     "default_popup": "popup.html",
-    "default_title": "action_popup",
+    "default_title": "action_popup2",
     "default_icon": {
       "64": "icons/64.png",
       "48": "icons/48.png",
@@ -33,7 +33,7 @@
   },
   "message_display_action": {
     "default_popup": "popup.html",
-    "default_title": "action_popup",
+    "default_title": "action_popup3",
     "default_icon": {
       "64": "icons/64.png",
       "48": "icons/48.png",
@@ -44,7 +44,7 @@
   },
   "browser_action": {
     "default_popup": "popup.html",
-    "default_title": "action_popup",
+    "default_title": "action_popup2",
     "default_icon": {
       "64": "icons/64.png",
       "48": "icons/48.png",
